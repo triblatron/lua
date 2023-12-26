@@ -1,2 +1,2 @@
 # lua
-lua with cmake build
+Lua with cmake build
